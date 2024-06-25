@@ -39,13 +39,9 @@ It provides the following functionalities:
 1. Clone the repository : git clone https://github.com/Capgemini-Project-Assessment/warehouse-management.git
 2. Go inside the project folder (cd warehouse-management) and from the root of warehouse-management project, run below commands.
 3. Run the below command to build the application:   
-  **.\mvnw clean install**
-
-If the above command does not work, try **mvn clean install**
+  **.\mvnw clean install** If the above previous does not work, try **mvn clean install**
 4. Run the below command to build the application:   
-   **.\mvnw spring-boot:run**
-
-If the above command does not work, try **mvn spring-boot:run**
+   **.\mvnw spring-boot:run** If the previous command does not work, try **mvn spring-boot:run**
 5. The application, if correctly started, should be accessible at localhost on port 8080
 6. You can use a tool like Postman to locally run and test the application
 
